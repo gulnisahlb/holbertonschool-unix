@@ -1,5 +1,2 @@
-#Create a script that creates an alias.
-
-    Name: ls
-    Value: rm -f *
-
+#!/bin/bash
+this script creates alias
